@@ -1,0 +1,5 @@
+C:\Users\Holzt\OneDrive\Skrivbord\Ny mapp\Laboration.exe
+C:\Users\Holzt\OneDrive\Skrivbord\Ny mapp\Laboration.dll
+C:\Users\Holzt\OneDrive\Skrivbord\Ny mapp\Laboration.deps.json
+C:\Users\Holzt\OneDrive\Skrivbord\Ny mapp\Laboration.runtimeconfig.json
+C:\Users\Holzt\OneDrive\Skrivbord\Ny mapp\Laboration.pdb
